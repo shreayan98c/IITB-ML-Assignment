@@ -1,0 +1,16 @@
+Courses:
+
+1. Machine Learning A-Z™: Hands-On Python & R In Data Science
+https://www.udemy.com/certificate/UC-MEGP1J20/
+
+2. Deep Learning A-Z™: Hands-On Artificial Neural Networks by Kirill Eremenko and Hadelin De Ponteves
+https://www.udemy.com/certificate/UC-8926VG5S/
+
+3. Introduction to Data Science in Python
+https://www.coursera.org/account/accomplishments/verify/THC8ERU9QUXC
+
+4. Machine Learning by Andrew NG
+https://www.coursera.org/account/accomplishments/verify/6Q4Z5RR84N6W
+
+5. Data Analysis and Visualization - Complete Bootcamp
+https://www.udemy.com/certificate/UC-HAN77NAX/
