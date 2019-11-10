@@ -1,0 +1,2 @@
+We have chosen the selected features because they have a very high Pearson correlation. The heatmap plotted in the python file shows us all the columns that are related to the target variable i.e. Price.
+The higher the Pearson correlation, the more important the column is to our model. Hence we have chosen the selected features.
