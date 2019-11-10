@@ -1,0 +1,2 @@
+We have chosen the price of the house as the target variable because 27247 values are present and 7610 values are missing in that column. Hence we can predict the 7610 missing values by using regression. 
+Also the price of a house is a dependant variable which depends on many independant variables like number of rooms, bathrooms, area of house, location etc. Hence we have chosen the price as the target variable.
