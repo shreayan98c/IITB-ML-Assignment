@@ -19,4 +19,6 @@ External References:
 
 6. Krish Naik YouTube Tutorials - https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig
 
-7. StackOverflow
+7. StackOverflow for some doubts
+
+8. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
